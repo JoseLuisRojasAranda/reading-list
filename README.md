@@ -7,5 +7,7 @@ The books i have read
 * [Delivering Happiness: A Path to Profits, Passion, and Purpose - by Tony Hsieh](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220/ref=sr_1_1?crid=1D67J7DCL0UPJ&keywords=delivering+happiness&qid=1557967691&s=gateway&sprefix=deliverng+h%2Caps%2C214&sr=8-1)
 * [The Lessons of History - by Will & Ariel Durant](https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X/ref=sr_1_1?crid=ZZHQVVF7HXU7&keywords=the+lessons+of+history&qid=1557967751&s=gateway&sprefix=the+lessons+o%2Caps%2C178&sr=8-1)
 
+...
+
 
 ## All books
