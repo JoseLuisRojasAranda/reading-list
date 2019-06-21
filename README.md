@@ -10,7 +10,7 @@ The books i have read
 ...
 
 
-## All books
+## All books (Pending)
 * [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It - Michael E. Gerber](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=sr_1_1?crid=16ZQ2PB8HKQIF&keywords=the+emyth&qid=1561147447&s=gateway&sprefix=the+e+myt%2Caps%2C180&sr=8-1)
 * [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results - Gary Keller and Jay Papasan](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776/ref=sr_1_1?keywords=the+one+thing&qid=1561147353&s=gateway&sr=8-1)
 * [Civilization and Its Discontents - Sigmund Freud](https://www.amazon.com/Civilization-Its-Discontents-Sigmund-Freud/dp/0393304515/ref=sr_1_1crid=2ZETZELB4YW7I&keywords=civilization+and+its+discontents&qid=1561147229&s=gateway&sprefix=civiliza%2Caps%2C181&sr=8-1)
